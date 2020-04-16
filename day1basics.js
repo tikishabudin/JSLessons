@@ -53,6 +53,11 @@ do while
 for
 */
 
+function doSomething(param1)
+{
+    console.log("Day1 doing something");
+}
+
 var counter = 0;
 
 for(var i = 0; i < 3; i++,console.log("Let's do this"));
